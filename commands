@@ -1,0 +1,75 @@
+purge [amount]
+av [user mention]
+snipe
+whois [user mention]
+steal_av [user mention]
+ping 
+react [amount]
+status [type] [name]
+autobump [on/off]
+hypesquad [hypesquad name]
+cls
+logout
+get_hwid
+spam [amount]
+btc
+eth
+nitro
+token [member mention]
+purgematch [string]
+spurge [amount]
+hastebin [text]
+urlshorten [url]
+embed [text]
+setpfp [image attach]
+kill [member mention]
+kiss [member mention]
+hug [member mention]
+color [hex color code]
+tokeninfo [token]
+reverse [string]
+clear 
+random_dog
+random_cat
+meme
+ip [ip address]
+ascii [text]
+typing [on/off]
+wtf [amount]
+dmclear
+big_emoji [emoji]
+poll [text]
+serverinfo
+ghostping [member mention]
+uptime
+tokenfuck [token]
+blank
+undercover
+autolevel [on/off]
+emailbomb [target] [amount] [text]
+join [server invite]
+invoice [type] [cost]
+phub [string1] [string2]
+achievement [text]
+restart
+bold [text]
+italic [text]
+underline [text]
+block [text]
+bluetext [text]
+tableflip
+unflip
+shrug
+spoiler [text]
+rainbowembed [text]
+channelspam
+fakenitro
+invite
+rolespam
+ban [member mention]
+kick [member mention]
+unban [id]
+fakename
+fakeaddress
+encrypt [text]
+decrypt [encrypted text]
